@@ -7,7 +7,7 @@ errata, just clone it and make a pull request.
 
 ## Chapter 2
 53: The program development cycle is oversimplified. Many programmers prefer to
-(write tests before the rest of the code)[https://en.wikipedia.org/wiki/Test-driven_development].
+[write tests before the rest of the code](https://en.wikipedia.org/wiki/Test-driven_development).
 There are far more types of errors than syntax errors and logic errors, such as name errors and type errors just to
 name 2.
 65: Incorrectly states that the first character of a Python function can not be
@@ -17,7 +17,7 @@ a letter in another language than English. Try this example in Idle:
 >>>
 ```
 It *is* however required that all standard library code use ascii letters for
-variables. You can read more in (PEP3131)[https://www.python.org/dev/peps/pep-3131/].
+variables. You can read more about it in [PEP3131](https://www.python.org/dev/peps/pep-3131/).
 
 ## Chapter 5
 233: Introduces the terminology void-function from C which is confusing because
